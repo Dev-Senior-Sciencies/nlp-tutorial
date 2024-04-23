@@ -36,7 +36,7 @@ Este projeto analisa um vídeo para extrair áudio e detectar emoções faciais.
 1. Clone this repo
 
 ```console
-git clone 
+git clone git@github.com:saniodev/nlp-tutorial.git
 ```
 
 2. Create a Python venv
